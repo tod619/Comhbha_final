@@ -592,6 +592,10 @@ img {
     flex-direction: column;
   }
 
+  .bring__description {
+    text-align: left;
+  }
+
   .contact__mainheading {
     font-size: 1.5rem;
     text-align: center;
